@@ -13,7 +13,7 @@
 |---|---|---|---|
 | T03 | А | `docs/service.md` | Няма TODO; описани са всички адреси. |
 | T04 | Б | `docs/runbook.md` | Няма TODO; всяка стъпка е точна команда. |
-| T05 | А | `.github/CODEOWNERS` | Ред `* @А @Б` (с вашите GitHub имена). После в правилото за `main` включете „Require review from Code Owners“. |
+| T05 | А | `.github/CODEOWNERS` (нов) | Ред `* @А @Б` (с вашите GitHub имена). После в правилото за `main` включете „Require review from Code Owners“. |
 | T06 | Б | `CONTRIBUTING.md` (нов) | Как именуваме клони, как пишем комити, правила за PR. Последен ред: `Branching strategy: TBD`. |
 
 Поне в едно ревю използвайте **Suggest changes**, а авторът го приема с **Commit suggestion**.
