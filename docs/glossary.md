@@ -4,7 +4,7 @@
 
 | Term / Термин | Meaning / Значение |
 |---|---|
-| Artifact | Any object made, modified, or used by humans—such as a tool, weapon, pottery, or ornament—that carries cultural, historical, or archaeological significance. / Всеки предмет, направен, променен или използван от хора, като инструмент, оръжие, грънчарски съд или украшение, който има културно, историческо или археологическо значение. git|
+| Artifact | Any object made, modified, or used by humans—such as a tool, weapon, pottery, or ornament—that carries cultural, historical, or archaeological significance. / Всеки предмет, направен, променен или използван от хора, като инструмент, оръжие, грънчарски съд или украшение, който има културно, историческо или археологическо значение. |
 | CI | Continuous integration: every change is built and tested automatically. / Всяка промяна се изгражда и тества автоматично. |
 | Container | Any object, receptacle, or enclosure—such as a box, jar, or bottle—used to hold, store, or transport items. / Поетапен процес или система за проследяване на проекти, клиенти или продукти, докато преминават последователно от започването до завършването си. |
 | Deployment | Putting a version of the service where users can reach it. / Поставяне на версия на услугата там, където потребителите я достигат. |
