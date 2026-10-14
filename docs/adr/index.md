@@ -6,3 +6,4 @@ Each decision is a separate file `NNNN-short-title.md`, numbered in order. / Ð’Ñ
 |---|---|---|
 | 0001 | [Record architecture decisions](0001-record-architecture-decisions.md) | Accepted |
 | 0002 | [Record architecture decisions](0002-survice-runs.md) | Accepted |
+| 0003 | [Database ](0003-database-for-exercise-4.md) | Accepted |
